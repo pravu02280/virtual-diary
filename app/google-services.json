@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1099052585580",
+    "firebase_url": "https://virtual-diary-project.firebaseio.com",
+    "project_id": "virtual-diary-project",
+    "storage_bucket": "virtual-diary-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099052585580:android:9b94ebd9365376cd",
+        "android_client_info": {
+          "package_name": "app.project.virtualdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099052585580-autj997v7d41kv0hvk52l1cbgaehq62k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.project.virtualdiary",
+            "certificate_hash": "d455c83cb6d85fb126ab051a8c15174a6148ad0e"
+          }
+        },
+        {
+          "client_id": "1099052585580-atgm4d5uq4e6kekl3bgjhcmsfpf5ftuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2zDlQGegR_BjFkWq8LIUpxfnsIyPihEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099052585580-atgm4d5uq4e6kekl3bgjhcmsfpf5ftuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
