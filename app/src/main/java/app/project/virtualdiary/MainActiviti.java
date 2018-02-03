@@ -9,16 +9,17 @@ import android.widget.TextView;
 
 import com.firebase.client.Firebase;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActiviti extends AppCompatActivity {
     EditText mUsername,mPhone;
     Button mButton;
     Firebase url;
     TextView mResult;
+    /*Hey hero*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activiti_main);
         Firebase.setAndroidContext(this);
        initializeVariable();
 

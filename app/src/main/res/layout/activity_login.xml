@@ -4,7 +4,7 @@
     android:id="@+id/activity_login"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.firebase.alokraj.firebaselogin.LoginActivity">
+    tools:context=".LoginActivity">
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
@@ -45,7 +45,8 @@
 
                 android:textColor="@android:color/white"
                 android:textColorHint="@android:color/white"
-                android:singleLine="true" />
+                android:singleLine="true"
+                tools:ignore="InvalidImeActionId" />
 
         </android.support.design.widget.TextInputLayout>
 
@@ -65,7 +66,8 @@
                 android:maxLines="1"
                 android:textColor="@android:color/white"
                 android:textColorHint="@android:color/white"
-                android:singleLine="true" />
+                android:singleLine="true"
+                tools:ignore="InvalidImeActionId" />
 
         </android.support.design.widget.TextInputLayout>
 

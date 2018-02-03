@@ -1,4 +1,4 @@
-package com.firebase.alokraj.firebaselogin;
+package app.project.virtualdiary;
 
 import android.content.Intent;
 import android.support.annotation.NonNull;
